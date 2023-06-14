@@ -1,1 +1,1 @@
-unstage with git reset. expecting conflit here
+hello, let's expect a conflict here
