@@ -1,0 +1,2 @@
+to check sub branch of feature branch for merging
+
